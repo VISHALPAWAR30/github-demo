@@ -1,0 +1,11 @@
+D:\Digital-Document-Wallet\auth-service\src\main\java\com\example\demo\dto\LoginResponse.java
+D:\Digital-Document-Wallet\auth-service\src\main\java\com\example\demo\AuthApplication.java
+D:\Digital-Document-Wallet\auth-service\src\main\java\com\example\demo\config\SecurityConfig.java
+D:\Digital-Document-Wallet\auth-service\src\main\java\com\example\demo\repository\UserRepository.java
+D:\Digital-Document-Wallet\auth-service\src\main\java\com\example\demo\dto\LoginRequest.java
+D:\Digital-Document-Wallet\auth-service\src\main\java\com\example\demo\dto\RegisterRequest.java
+D:\Digital-Document-Wallet\auth-service\src\main\java\com\example\demo\security\JWTService.java
+D:\Digital-Document-Wallet\auth-service\src\main\java\com\example\demo\controller\AuthController.java
+D:\Digital-Document-Wallet\auth-service\src\main\java\com\example\demo\config\PasswordConfig.java
+D:\Digital-Document-Wallet\auth-service\src\main\java\com\example\demo\model\User.java
+D:\Digital-Document-Wallet\auth-service\src\main\java\com\example\demo\service\AuthService.java
