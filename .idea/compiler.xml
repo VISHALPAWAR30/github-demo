@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="api-gateway" />
         <module name="document-wallet-service" />
+        <module name="Auth (1)" />
         <module name="user-profile" />
         <module name="Auth" />
       </profile>
@@ -20,13 +21,19 @@
           <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.32/lombok-1.18.32.jar" />
         </processorPath>
         <module name="notification" />
+        <module name="auth (2)" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="digital-document-wallet" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Auth" options="-parameters" />
+      <module name="Auth (1)" options="-parameters" />
       <module name="api-gateway" options="-parameters" />
+      <module name="auth (2)" options="-parameters" />
       <module name="document-wallet-service" options="-parameters" />
       <module name="notification" options="-parameters" />
       <module name="user-profile" options="-parameters" />
